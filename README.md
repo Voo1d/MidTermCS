@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">How to Run the Program<br><br>1. Download the file main.cpp.<br>2. Open your C++ compiler or IDE (for example: Visual Studio, Code::Blocks, CLion, Dev-C++).<br>3. Click Open File.<br>4. Select the path to main.cpp and open it.<br>5. Press Run (or Build & Run, depending on the IDE).<br>6. The program will compile and start automatically.</p>
+<p align="left">How to Run the Program<br><br>1. Download the file cs_project.cpp.<br>2. Open your C++ compiler or IDE (for example: Visual Studio, Code::Blocks, CLion, Dev-C++).<br>3. Click Open File.<br>4. Select the path to cs_project.cpp and open it.<br>5. Press Run (or Build & Run, depending on the IDE).<br>6. The program will compile and start automatically.</p>
 
 ###
 
